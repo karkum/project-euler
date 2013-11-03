@@ -5,7 +5,7 @@
  *
  * Answer: 104743
  */
-public class Seven
+public class Num7
 {
     public static void main(String [] args) 
     {

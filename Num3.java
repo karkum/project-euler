@@ -8,7 +8,7 @@
  */
 import java.math.BigInteger;
 
-public class Three {
+public class Num3 {
     public static final BigInteger MAGIC = new BigInteger("600851475143");
     public static void main (String [] args) {
         double start = (int)Math.sqrt(MAGIC.doubleValue());

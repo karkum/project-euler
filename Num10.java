@@ -9,7 +9,7 @@
 
 import java.math.BigInteger;
 
-public class Ten {
+public class Num10 {
     private static final int N = 2000000;
     public static void main (String [] args) {
         

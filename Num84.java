@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class EightyFour {
+public class Num84 {
 	private static int ccCard;
 	private static int chCard;
 

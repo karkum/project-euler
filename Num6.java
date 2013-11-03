@@ -1,4 +1,4 @@
-public class Six
+public class Num6
 {
     public static void main(String [] args) {
         int sumofsquares = 0;
