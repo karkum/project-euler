@@ -4,6 +4,11 @@ def compare(a, b)
   return a_set == b_set
 end
 
+# functional
+puts (1..1000000).find{|i| (2..6).all?{|j| compare(i, j*i) }}
+
+# Imperative
+
 x = 1
 while true
   twox = 2 * x
